@@ -1,4 +1,9 @@
-## Yo, I'm yrev, and I enjoy making practical projects. It's likely that any of my projects were started for the sole purpose of solving one of my problems.
+## Yo, welcome to my humble abode.
+
+I'm Nick, a college student studying Physics, and I love making personal projects. Much of what I do is for the sole purpose of satiating my curiosity, but I also keep in mind that my work advances my career.
+
+Python is the only language in my toolbox at the moment, but I'm eager to learn more.
+
 
 <!--
 **yrevwol/yrevwol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
