@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yo, I'm yrev, and I enjoy making practical projects. It's likely that any of my projects were started for the sole purpose of solving one of my problems.
 
 <!--
 **yrevwol/yrevwol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
