@@ -1,10 +1,7 @@
-## Yo, welcome to my humble abode.
+## Hiii, I'm yrev 🫐
+🪶 about me: i love cats and bats, chocolate ice cream, and making personal projects.
 
-I'm Nick, a college student studying Physics, and I love making personal projects. Much of what I do is for the sole purpose of satiating my curiosity, but I also keep in mind that my work advances my career.
-
-Python is the only language in my toolbox at the moment, but I'm eager to learn more.
-
-
+🔧 tools: familiar with python, currently learning javascript, and i'm interested in AI and quantum computing
 <!--
 **yrevwol/yrevwol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
