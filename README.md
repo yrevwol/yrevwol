@@ -1,7 +1,7 @@
 ## Hiii, I'm yrev 🫐
 🪶 about me: i love cats and bats, chocolate ice cream, and making personal projects.
 
-🔧 tools: familiar with python, currently learning javascript, and i'm interested in AI and quantum computing
+🔧 tools: proficient in python, currently learning javascript, and i'm interested in AI and quantum computing
 <!--
 **yrevwol/yrevwol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
