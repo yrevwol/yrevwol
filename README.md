@@ -1,5 +1,5 @@
-## Hiii, I'm yrev 🫐
-🪶 about me: i love cats and bats, chocolate ice cream, and making personal projects.
+## Hi, I'm yrev 🫐
+🪶 about me: i love cats, chocolate ice cream, and making personal projects.
 
 🔧 tools: proficient in python, currently learning javascript, and i'm interested in AI and quantum computing
 <!--
